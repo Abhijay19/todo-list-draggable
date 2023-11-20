@@ -10,7 +10,7 @@ The app provides various functionalities such as adding, deleting, completing an
 The app's frontend is built on ReactJS+Vue and the backend with ExpressJs connected with the mongoDB database with Mongoose
 
 
-Differnet todo elements can be dragged and switched positions
+Different todo elements can be dragged and switched positions
 
 
 ![image](https://github.com/Abhijay19/todo-list-draggable/assets/127417011/f9b61138-e0d8-45f9-842b-dc8eb6172b9e)
